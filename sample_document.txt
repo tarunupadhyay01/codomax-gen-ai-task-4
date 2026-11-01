@@ -1,0 +1,19 @@
+Codomax Learning Hub - Student Handbook
+
+About the programme
+The Codomax Learning Hub runs virtual internships in Generative AI, Web Development and Data Analytics. Each internship lasts one month and has structured modules with practical tasks.
+
+Attendance and schedule
+Students are expected to log in to the internship portal at least five days a week. Each module has a fixed number of days. Module deadlines are shown on the dashboard.
+
+Submission rules
+Every module requires a GitHub repository link and a LinkedIn post that tags Codomax Digital Solutions. Later modules also need a live website link. Submissions with broken or private links are not approved.
+
+Certificate policy
+A completion certificate is issued only after all modules are submitted and approved by the mentor. The certificate includes a unique ID and a QR code that can be scanned to verify it.
+
+Refund policy
+Registration fees can be refunded within seven days of enrolment if no module has been submitted. After that, fees are not refundable.
+
+Support
+Students can contact the programme coordinator through the portal. Replies are usually sent within two working days.
